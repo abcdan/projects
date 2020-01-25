@@ -2,7 +2,7 @@
 A list of random projects that might give you inspiration
 
 # Easy
-- A Disord/Slack/Etc. bot
+- A Discord/Slack/Etc. bot
 - A theme for your favorite IDE
 - Mockup Database generator
 - Load balancing system
