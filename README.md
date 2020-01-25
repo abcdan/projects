@@ -28,4 +28,4 @@ A list of random projects that might give you inspiration
 - A computer virus (be sure to make it so it isn't harmful if someone accidentally runs it, make it clear it's a bad program).
 - A custom CMS
 
-* These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
+#### These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
