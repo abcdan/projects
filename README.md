@@ -5,6 +5,12 @@ A list of random projects that might give you inspiration
 - A Disord/Slack/Etc. bot
 - A theme for your favorite IDE
 - Mockup Database generator
+- Load balancing system
+- Custom DNS Server (like Pi-Hole), with blocklists
+- A tool to monitor servers
+- Note taking app
+- System that auto-translates subtitles from movie files to your own language
+- Website to make screenshots of web pages, or previes
 
 # Medium
 - A network monitoring/scanning system
@@ -12,6 +18,9 @@ A list of random projects that might give you inspiration
 - Chat Platform
 - Big-O Notation calculator (library)
 - A leightweight HTTP Library for your favorite programming language
+- Custom personal file hosting system (example, ownCloud)
+- Search engine with web-crawler
+- Custom Android Launcher
 
 # Hard
 - An Operating System
