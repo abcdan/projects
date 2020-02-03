@@ -3,6 +3,7 @@ A list of random projects that might give you inspiration
 
 # Easy
 - A Discord/Slack/Etc. bot
+- An application to share texts and files quickly accross multiple devices (or just your clipboard)
 - A theme for your favorite IDE
 - Mockup Database generator
 - Load balancing system
