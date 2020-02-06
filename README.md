@@ -1,7 +1,7 @@
 # projects
 A list of random projects that might give you inspiration
 
-# Easy
+# Easy (Small projects)
 - A Discord/Slack/Etc. bot
 - An application to share texts and files quickly accross multiple devices (or just your clipboard)
 - A theme for your favorite IDE
@@ -13,7 +13,7 @@ A list of random projects that might give you inspiration
 - System that auto-translates subtitles from movie files to your own language
 - Website to make screenshots of web pages, or previes
 
-# Medium
+# Medium (Can take some time)
 - A network monitoring/scanning system
 - Discord API Wrapper
 - Chat Platform
@@ -23,10 +23,11 @@ A list of random projects that might give you inspiration
 - Search engine with web-crawler
 - Custom Android Launcher
 
-# Hard
+# Hard (Challenging)
 - An Operating System
 - A custom communication protocol
 - A computer virus (be sure to make it so it isn't harmful if someone accidentally runs it, make it clear it's a bad program).
 - A custom CMS
+- A website like Github
 
 #### These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
