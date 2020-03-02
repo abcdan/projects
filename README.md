@@ -12,6 +12,7 @@ A list of random projects that might give you inspiration
 - Note taking app
 - System that auto-translates subtitles from movie files to your own language
 - Website to make screenshots of web pages, or previes
+- Website speedtest (like GTMetrix)
 
 # Medium (Can take some time)
 - A network monitoring/scanning system
