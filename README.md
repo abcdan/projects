@@ -17,6 +17,7 @@ A list of random projects that might give you inspiration
 - Webscraper
 - Name generator
 - Temperature logger
+- A webapp where you can quickly paste a file/text and share it with other devices.
 
 # Medium (Can take some time)
 - A network monitoring/scanning system
