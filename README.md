@@ -13,6 +13,10 @@ A list of random projects that might give you inspiration
 - System that auto-translates subtitles from movie files to your own language
 - Website to make screenshots of web pages, or previes
 - Website speedtest (like GTMetrix)
+- Bandwidth monitor
+- Webscraper
+- Name generator
+- Temperature logger
 
 # Medium (Can take some time)
 - A network monitoring/scanning system
@@ -23,6 +27,11 @@ A list of random projects that might give you inspiration
 - Custom personal file hosting system (example, ownCloud)
 - Search engine with web-crawler
 - Custom Android Launcher
+- A FTP client
+- A 2D game
+- A chatbot
+- Pixel art generator
+- Music recommendation
 
 # Hard (Challenging)
 - An Operating System
@@ -31,5 +40,7 @@ A list of random projects that might give you inspiration
 - A custom CMS
 - A website like Github
 - A programming language
+- A 3D game
+- A character generator
 
 #### These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
