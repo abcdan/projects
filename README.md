@@ -33,6 +33,7 @@ A list of random projects that might give you inspiration
 - A chatbot
 - Pixel art generator
 - Music recommendation
+- An static site from markdown files without to many options like Jekyll. Simplicity is the key.
 
 # Hard (Challenging)
 - An Operating System
