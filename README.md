@@ -34,6 +34,7 @@ A list of random projects that might give you inspiration
 - Pixel art generator
 - Music recommendation
 - An static site from markdown files without to many options like Jekyll. Simplicity is the key.
+- An game streaming service where you can rent someone else his PC that is nearby. The other user can then earn money by lending his PC.
 
 # Hard (Challenging)
 - An Operating System
