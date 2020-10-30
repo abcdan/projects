@@ -45,5 +45,6 @@ A list of random projects that might give you inspiration
 - A programming language
 - A 3D game
 - A character generator
+- An AI that can create trendy tiktok videos based on current tiktok video's.
 
 #### These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
