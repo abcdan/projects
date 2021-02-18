@@ -17,6 +17,7 @@ A list of random projects that might give you inspiration
 - Webscraper
 - Name generator
 - Temperature logger
+- Something like ngrok but without accounts and authorization (ideally get started with 1 bash command)
 - A webapp where you can quickly paste a file/text and share it with other devices.
 
 # Medium (Can take some time)
