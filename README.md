@@ -19,6 +19,7 @@ A list of random projects that might give you inspiration
 - Temperature logger
 - Something like ngrok but without accounts and authorization (ideally get started with 1 bash command)
 - A webapp where you can quickly paste a file/text and share it with other devices.
+- A spotify insights website using their API
 
 # Medium (Can take some time)
 - A network monitoring/scanning system
@@ -34,18 +35,20 @@ A list of random projects that might give you inspiration
 - A chatbot
 - Pixel art generator
 - Music recommendation
-- An static site from markdown files without to many options like Jekyll. Simplicity is the key.
-- An game streaming service where you can rent someone else his PC that is nearby. The other user can then earn money by lending his PC.
+- An static site from markdown files without to many options like Jekyll. Simplicity is the key
+- An game streaming service where you can rent someone else his PC that is nearby. The other user can then earn money by lending his PC
+- A music recommendation website using Spotify their API
 
 # Hard (Challenging)
 - An Operating System
 - A custom communication protocol
-- A computer virus (be sure to make it so it isn't harmful if someone accidentally runs it, make it clear it's a bad program).
+- A computer virus (be sure to make it so it isn't harmful if someone accidentally runs it, make it clear it's a bad program)
 - A custom CMS
 - A website like Github
 - A programming language
 - A 3D game
 - A character generator
-- An AI that can create trendy social media posts/videos based on what is currently trendy.
+- An AI that can create trendy social media posts/videos based on what is currently trendy
+- A system where you can remotely game from a server/pc in another place on earth
 
 #### These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
