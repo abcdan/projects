@@ -4,12 +4,15 @@ A list of random projects that might give you inspiration
 ## Looking for a coding community on Discord?
 Join Code::Together! [https://discord.me/code](https://discord.me/code)
 
-# Easy (Small projects)
+# Beginner (Projects for learning a new language)
+Can be done in either a graphical interface or console
 - Tic Tac Toe
 - Connect Four
 - A calculater
 - Mastermind
 - Snake
+
+# Easy (Small projects)
 - A Discord/Slack/Etc. bot
 - An application to share texts and files quickly accross multiple devices (or just your clipboard)
 - A theme for your favorite IDE
