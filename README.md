@@ -4,7 +4,7 @@ A list of random projects that might give you inspiration
 ## Looking for a coding community on Discord?
 Join Code::Together! [https://discord.me/code](https://discord.me/code)
 
-# Beginner (Projects for learning a new language)
+# 🧑 Beginner (Projects for learning a new language)
 Can be done in either a graphical interface or console
 - Tic Tac Toe
 - Connect Four
@@ -12,7 +12,7 @@ Can be done in either a graphical interface or console
 - Mastermind
 - Snake
 
-# Easy (Small projects)
+# 💪 Easy (Small projects)
 - A Discord/Slack/Etc. bot
 - An application to share texts and files quickly accross multiple devices (or just your clipboard)
 - A theme for your favorite IDE
@@ -32,7 +32,7 @@ Can be done in either a graphical interface or console
 - A webapp where you can quickly paste a file/text and share it with other devices.
 - A spotify insights website using their API
 
-# Medium (Can take some time)
+# 👀 Medium (Can take some time)
 - A network monitoring/scanning system
 - Discord API Wrapper
 - Chat Platform
@@ -50,7 +50,7 @@ Can be done in either a graphical interface or console
 - An game streaming service where you can rent someone else his PC that is nearby. The other user can then earn money by lending his PC
 - A music recommendation website using Spotify their API
 
-# Hard (Challenging)
+# 🥵 Hard (Challenging)
 - An Operating System
 - A custom communication protocol
 - A computer virus (be sure to make it so it isn't harmful if someone accidentally runs it, make it clear it's a bad program)
