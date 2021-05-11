@@ -4,7 +4,6 @@ A list of random projects that might give you inspiration
 ## Looking for a coding community on Discord?
 Join Code::Together! [https://discord.me/code](https://discord.me/code)
 
-# Beginner (For learning a new language)
 # Easy (Small projects)
 - Tic Tac Toe
 - Connect Four
