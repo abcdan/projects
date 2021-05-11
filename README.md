@@ -1,4 +1,4 @@
-# projects
+# 📝 projects
 A list of random projects that might give you inspiration
 
 ## Looking for a coding community on Discord?
