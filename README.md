@@ -1,7 +1,7 @@
 # 📝 projects
 A list of random projects that might give you inspiration
 
-## Looking for a coding community on Discord?
+## 🦜 Looking for a coding community on Discord?
 Join Code::Together! [https://discord.me/code](https://discord.me/code)
 
 # 🧑 Beginner (Projects for learning a new language)
@@ -62,4 +62,4 @@ Can be done in either a graphical interface or console
 - An AI that can create trendy social media posts/videos based on what is currently trendy
 - A system where you can remotely game from a server/pc in another place on earth
 
-#### These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
+#### 📖 These projects are categorised based on my personal opinion, you can make an issue on this repo to point out if a project idea needs to be moved to another category.
