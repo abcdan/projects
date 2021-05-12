@@ -53,6 +53,7 @@ Can be done in either a graphical interface or console
 # 🥵 Hard (Challenging)
 - An Operating System
 - A custom communication protocol
+- A custom blockchain.
 - A computer virus (be sure to make it so it isn't harmful if someone accidentally runs it, make it clear it's a bad program)
 - A custom CMS
 - A website like Github
