@@ -49,6 +49,7 @@ Can be done in either a graphical interface or console
 - An static site from markdown files without to many options like Jekyll. Simplicity is the key
 - An game streaming service where you can rent someone else his PC that is nearby. The other user can then earn money by lending his PC
 - A music recommendation website using Spotify their API
+- A platform to send HTTP POST requests then reformat the data and send it to another endpoint (for example, transpile one webhooks response into a webhook request)
 
 # 🥵 Hard (Challenging)
 - An Operating System
