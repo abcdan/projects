@@ -1,10 +1,12 @@
 # 📝 projects
 A list of random projects that might give you inspiration
 
-## 🦜 Looking for a coding community on Discord?
+<hr>
+
+### 🦜 Looking for a coding community on Discord?
 Join Code::Together! [https://discord.me/code](https://discord.me/code)
 
-## ⭐ Made something cool? Need help?
+### ⭐ Made something cool? Need help?
 You can head over to the [Discussions](https://github.com/abcdan/projects/discussions) tab and show it off or ask for help!
 
 <hr>
