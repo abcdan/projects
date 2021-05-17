@@ -15,7 +15,7 @@ You can head over to the [Discussions](https://github.com/abcdan/projects/discus
 Can be done in either a graphical interface or console
 - Tic Tac Toe
 - Connect Four
-- A calculater
+- A calculator
 - Mastermind
 - Snake
 
