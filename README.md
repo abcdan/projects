@@ -40,6 +40,7 @@ Can be done in either a graphical interface or console
 - Something like ngrok but without accounts and authorization (ideally get started with 1 bash command)
 - A webapp where you can quickly paste a file/text and share it with other devices.
 - A spotify insights website using their API
+- An app for searching code
 
 <hr>
 
