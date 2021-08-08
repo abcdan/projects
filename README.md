@@ -18,7 +18,7 @@ Can be done in either a graphical interface or console
 - A calculator
 - Mastermind
 - Snake
-- Weight daily tracker app/webiste
+- Je facking vader Daniel
 
 <hr>
 
