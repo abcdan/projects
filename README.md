@@ -18,6 +18,7 @@ Can be done in either a graphical interface or console
 - A calculator
 - Mastermind
 - Snake
+- Je facking vader Daniel
 
 <hr>
 
