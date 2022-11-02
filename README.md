@@ -31,7 +31,7 @@ Can be done in either a graphical interface or console
 - A tool to monitor servers
 - Note taking app
 - System that auto-translates subtitles from movie files to your own language
-- Website to make screenshots of web pages, or previes
+- Website to make screenshots of web pages, or previews
 - Website speedtest (like GTMetrix)
 - Bandwidth monitor
 - Webscraper
