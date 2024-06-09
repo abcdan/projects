@@ -1,7 +1,7 @@
 # 📝 projects
 A list of random projects that might give you inspiration
 
-## Want to host your own filehost?
+# Want to host your own filehost?
 Checkout [filehost](https://github.com/filecoffee/filehost) and :star: it. It's free & open source!
 
 <hr>
