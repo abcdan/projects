@@ -6,10 +6,10 @@ Checkout [filehost](https://github.com/filecoffee/filehost) and :star: it. It's 
 
 <hr>
 
-### 🦜 Looking for a coding community on Discord?
+#### 🦜 Looking for a coding community on Discord?
 Join Code::Together! [https://discord.me/code](https://discord.me/code)
 
-### ⭐ Made something cool? Need help?
+#### ⭐ Made something cool? Need help?
 You can head over to the [Discussions](https://github.com/abcdan/projects/discussions) tab and show it off or ask for help!
 
 <hr>
